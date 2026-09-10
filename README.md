@@ -72,5 +72,5 @@ Sistema de visão computacional em tempo real que detecta invasões de zonas res
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasRdeFreitas&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRdeFreitas&theme=dark&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=LucasRdeFreitas&theme=dark&hide_border=true" alt="GitHub streak" />
 </p>
